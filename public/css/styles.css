@@ -1,0 +1,35 @@
+body{
+    background-color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+h1 {
+    font-family: 'Krona One', sans-serif;
+    font-size: 50p;
+}
+
+h2 {
+    font-size: 20px;
+}
+p{
+    font-size: 17px;
+    line-height: 24px;
+}
+p strong{
+    background-color: orange;
+    color: white;
+    font-style: italic;
+
+
+}
+.parrafo-destacado{
+    color: red;
+    font-size: 30px;
+    line-height: 38px;
+}
+strong{
+    color: green;
+}
+.parrafo-destacado em {
+    color: red;
+    text-transform: uppercase;
+}
