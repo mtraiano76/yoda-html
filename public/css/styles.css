@@ -1,42 +1,21 @@
 
-*{
-    box-sizing:border-box;
-}
 
-body{
-    background-color: white;
+header{
+    background-color: rgb(75, 69, 69);
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+};
+h1{
+    font-size: 36px;
+}
+div.guitarras{
+    margin: 20%;
+}
 
-}
-.oculto {
-    display: none;
-}
-.contenedor01{
-    width: 70%;
-    max-width: 1200px;
-    padding: 20px;
-    border: solid 5px black;
-    background-color:salmon;
-    box-sizing: border-box;
-    margin: 0 auto;
-}
-@media (min-width: 570px) {
-   
-    .contenedor01{
-        border: solid 5px salmon;
-        background-color:black;
-        color: white;
-       
-    }
-}
-@media (min-width: 900px) {
-   
-    .contenedor01{  
-        color: red;
 
-       
-    }
-    .oculto{
-        display: block
-    }
-}
+
+
+    
+
+
+
