@@ -9,7 +9,25 @@ h1{
     font-size: 36px;
 }
 div.guitarras{
-    margin: 20%;
+    margin-left: 5%;  
+}
+
+section{
+    background-color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: aliceblue;
+}
+div.explorer{
+    box-sizing: border-box;
+    margin-left: 2%;
+    display: inline;
+
+    
+}
+div.randy{
+    box-sizing: border-box;
+    margin-right: 2%;
+   display: inline;
 }
 
 
